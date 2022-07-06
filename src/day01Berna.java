@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class day1Berna {
+public class day01Berna {
     //Bir kelimenin icindeki harflerin kac adet oldugunu hesaplayan bir method yazin
 
 
