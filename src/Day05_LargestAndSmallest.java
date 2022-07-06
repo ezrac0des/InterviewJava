@@ -1,7 +1,8 @@
-//find largest and smallest element of an array
 
-public class day05Ezra {
+//EZRA
+public class Day05_LargestAndSmallest {
 
+    //find largest and smallest element of an array
     public static void main(String[] args) {
 
         //array of 10 numbers

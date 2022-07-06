@@ -1,7 +1,8 @@
-//Take all substrings from a String
 
-public class day04Ezra {
+//EZRA
+public class Day04_SubstringsInAWord {
 
+    //Take all substrings from a String
     public static void main(String args[]) {
         substrings("java");
     }
